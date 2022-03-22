@@ -1,16 +1,13 @@
-### Hi there 👋
+## Introduction
+Hi!
+I'm MessyMice. I love making useful Discord Bots in JavaScript and in Python But currently, I'm focusing on my music Source is not available rn Also, you can contact me:
+- *Discord:* !"ⴽO〢𝓥αη𝓢ħ  ♔#0685
+### GitHub Stats
+![Sxlitude's GitHub stats](https://github-readme-stats.vercel.app/api?username=MessyMice&show_icons=true&theme=radical)
 
-<!--
-**MessyMice/MessyMice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MessyMice&layout=compact)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+MessyMice/MyProfile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
