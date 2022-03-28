@@ -1,3 +1,5 @@
+![welcome](https://i.imgur.com/6XHBC84.png) <br/>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/messymice)
 ## Introduction
 Hi!
 I'm MessyMice. I love making useful Discord Bots in JavaScript and in Python But currently, I'm focusing on my music Source is not available rn Also, you can contact me:
