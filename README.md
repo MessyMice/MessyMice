@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **DJS**
 
-- 📫 How to reach me Discord: **`𝐓𝐗™〢𝐍σт𝐘συя𝓥𝞪η𝓢♄♔🥀#1337`**
+- 📫 How to reach me Discord: **`𝐍σт𝐘συя𝓥𝞪η𝓢♄♔🥀#0778`**
 
 - ⚡ Fun fact **I am getting better at coding**
 
