@@ -11,9 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MessyMice?tab=repositories](https://github.com/MessyMice?tab=repositories)
 
-- 💬 Ask me about **DJS**
-
-- 📫 How to reach me Discord: **`𝐍σт𝐘συя𝓥𝞪η𝓢♄♔🥀#0778`**
+- 📫 How to reach me Instagram: **`@varsh_itgarg`**
 
 - ⚡ Fun fact **I am getting better at coding**
 
